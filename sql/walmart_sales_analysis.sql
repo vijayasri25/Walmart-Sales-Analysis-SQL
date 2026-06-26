@@ -4,7 +4,7 @@ use walmart_db;
 
 show tables;
 
-##
+#
 select * from walmart_sales;
 select count(*) from walmart_sales;  #count-total no of rows
 
