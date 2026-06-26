@@ -1,55 +1,51 @@
-# Walmart Sales Analysis Using SQL
+# 🛒 Walmart Sales Analysis using SQL & Tableau
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes Walmart sales data using MySQL to uncover sales trends, store performance, and the impact of holidays on revenue.
+This project analyzes Walmart sales data using SQL for business analysis and Tableau for interactive dashboard visualization. The goal is to identify sales trends, top-performing stores, and the impact of holidays on sales.
 
-## Business Problem
+---
 
-Retail businesses need to understand which stores perform best, how sales change over time, and whether holidays significantly influence revenue. This analysis helps identify key business insights from Walmart sales data.
+## 🛠 Tools Used
 
-## Dataset
+- MySQL Workbench
+- SQL
+- Tableau
+- GitHub
 
-* Walmart Sales Dataset
-* Weekly sales data across multiple stores
-* Includes holiday indicators and sales information
+---
 
-## SQL Skills Demonstrated
+## 📊 Dashboard
 
-* Aggregate Functions (SUM, AVG)
-* GROUP BY
-* ORDER BY
-* LIMIT
-* Date Functions
-* Business Analysis Queries
+> Dashboard Preview
 
-## Business Questions Answered
+<img width="1920" height="1080" alt="dashboard png" src="https://github.com/user-attachments/assets/1e8b63a8-830e-4dbf-b5f2-416e8fc4133d" />
 
-1. What is the total sales revenue?
-2. What is the average weekly sales value?
-3. Which are the top 5 performing stores?
-4. Which are the bottom 5 performing stores?
-5. What are the monthly sales trends?
-6. What are the yearly sales trends?
-7. How do holiday and non-holiday sales compare?
-8. What is the impact of holidays on individual stores?
 
-## Key Insights
+---
 
-* Identified top-performing and low-performing stores.
-* Analyzed monthly and yearly sales trends.
-* Compared holiday and non-holiday sales performance.
-* Evaluated store-level sales contributions.
+## 📈 Business Questions Answered
 
-## Tools Used
+- What is the total sales revenue?
+- What is the average weekly sales?
+- Which are the Top 10 performing stores?
+- How do sales vary by month?
+- How do sales vary by year?
+- How do holiday and non-holiday sales compare?
 
-* MySQL Workbench
-* SQL
-* GitHub
+---
 
-## Project Files
+## 📂 Project Files
 
-* walmart_sales_analysis.sql
-* query1.png
-* query2.png
-* query3.png
+- `walmart_sales_analysis.sql`
+- `Walmart_Sales_Dashboard.twbx`
+- `dashboard.png`
+
+---
+
+## 💡 Key Insights
+
+- Identified the top-performing Walmart stores.
+- Observed monthly and yearly sales trends.
+- Compared holiday and non-holiday sales.
+- Built an interactive Tableau dashboard using Filter Actions.
