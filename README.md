@@ -49,3 +49,10 @@ This project analyzes Walmart sales data using SQL for business analysis and Tab
 - Observed monthly and yearly sales trends.
 - Compared holiday and non-holiday sales.
 - Built an interactive Tableau dashboard using Filter Actions.
+
+ ## 💡 Business Insights
+
+• Store 20 generated the highest total sales.
+• Non-holiday sales were significantly higher than holiday sales.
+• Sales showed seasonal patterns across months.
+• The dashboard allows users to filter all charts by store.
